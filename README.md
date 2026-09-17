@@ -33,6 +33,7 @@ This hub centralizes all marketing, foundation grant dossiers, validator recruit
 rdl-marketing/
 │
 ├── 🏛️ grants/                               # Foundation Grants & Non-Dilutive Capital
+│   ├── ACADEMIC_AND_INSTITUTIONAL_GRANTS_MAP.md # IITs, IIITs, NQM, MIT, Stanford, Berkeley, Harvard
 │   ├── MULTI_CHAIN_ECOSYSTEM_GRANTS_MAP.md # Master Arbitrum, Algorand, Solana, Sui, TON grants
 │   ├── QUANTUM_BIOTECH_AND_HEALTHCARE_GRANTS.md # Gates Foundation, Wellcome Leap, ARPA-H, NIH
 │   ├── GITCOIN_GRANTS_APPLICATION.md       # Pre-filled Gitcoin Grants dossier (PQ-RDL L1)
@@ -52,6 +53,7 @@ rdl-marketing/
 │   └── OPERATOR_INCENTIVES_AND_ECONOMICS.md# Points, staking rewards & slashing mechanics
 │
 ├── 📢 marketing/                           # Viral Growth, PR & Social Playbooks
+│   ├── ACADEMIC_COLLABORATION_PITCH_DECK.md# University Deans & Incubation Pitch Deck (IITs/MIT)
 │   ├── QMOOSA_MULTICHAIN_SOVEREIGN_FLEET.md# Master 12-Tweet & Hacker News fleet launch kit
 │   ├── QUANTUM_DRUG_DISCOVERY_VIRAL_KIT.md # Viral kit for VQE/QML Malaria & TB Drug Discovery
 │   ├── MASTER_VIRAL_MARKETING_PLAN.md      # Full 5-phase global growth flywheel
@@ -74,9 +76,12 @@ rdl-marketing/
 
 | Goal | Action | Source File |
 | :--- | :--- | :--- |
+| **Apply for IIT/IIIT/MIT/Stanford Grants** | Submit proposals to NQM, MIT DCI, Stanford CBR, IIT incubation | [`grants/ACADEMIC_AND_INSTITUTIONAL_GRANTS_MAP.md`](grants/ACADEMIC_AND_INSTITUTIONAL_GRANTS_MAP.md) |
+| **Pitch to University Deans & VCs** | Deliver 7-slide academic briefing & incubation deck | [`marketing/ACADEMIC_COLLABORATION_PITCH_DECK.md`](marketing/ACADEMIC_COLLABORATION_PITCH_DECK.md) |
 | **Apply for Multi-Chain Grants** | Submit to Arbitrum, Algorand, Solana, Sui, TON, BNB | [`grants/MULTI_CHAIN_ECOSYSTEM_GRANTS_MAP.md`](grants/MULTI_CHAIN_ECOSYSTEM_GRANTS_MAP.md) |
+| **Apply for Gates & NIH Biotech Grants**| Submit VQE Malaria/TB proposals to Gates Foundation & NIH | [`grants/QUANTUM_BIOTECH_AND_HEALTHCARE_GRANTS.md`](grants/QUANTUM_BIOTECH_AND_HEALTHCARE_GRANTS.md) |
 | **Launch Entire Fleet on X & HN** | Post 12-Tweet mega thread & Show HN deep dive | [`marketing/QMOOSA_MULTICHAIN_SOVEREIGN_FLEET.md`](marketing/QMOOSA_MULTICHAIN_SOVEREIGN_FLEET.md) |
-| **Explore Full 15-Repo Fleet** | View architecture, tech stacks, and repo links | [`portfolio/QMOOSA_PORTFOLIO_MASTER_CATALOG.md`](portfolio/QMOOSA_PORTFOLIO_MASTER_CATALOG.md) |
+| **Explore Full 35+ Repo Fleet** | View architecture, tech stacks, and repo links | [`portfolio/QMOOSA_PORTFOLIO_MASTER_CATALOG.md`](portfolio/QMOOSA_PORTFOLIO_MASTER_CATALOG.md) |
 | **Apply for Base / Arbitrum AI Grants** | Submit Base Ecosystem Fund or Arbitrum DAO applications | [`grants/QMOOSA_NEXUS_AI_AGENTS_GRANTS.md`](grants/QMOOSA_NEXUS_AI_AGENTS_GRANTS.md) |
 | **Apply for Google AI & BNB Grants** | Submit Google Cloud AI or BNB Chain MVB applications | [`grants/AI_INFRA_AND_QUANTUM_GRANTS.md`](grants/AI_INFRA_AND_QUANTUM_GRANTS.md) |
 | **Apply for Web3 / PQC Grants** | Copy-paste application fields into Gitcoin or DoraHacks | [`grants/GITCOIN_GRANTS_APPLICATION.md`](grants/GITCOIN_GRANTS_APPLICATION.md) |
