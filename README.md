@@ -34,6 +34,7 @@ rdl-marketing/
 │
 ├── 🏛️ grants/                               # Foundation Grants & Non-Dilutive Capital
 │   ├── MULTI_CHAIN_ECOSYSTEM_GRANTS_MAP.md # Master Arbitrum, Algorand, Solana, Sui, TON grants
+│   ├── QUANTUM_BIOTECH_AND_HEALTHCARE_GRANTS.md # Gates Foundation, Wellcome Leap, ARPA-H, NIH
 │   ├── GITCOIN_GRANTS_APPLICATION.md       # Pre-filled Gitcoin Grants dossier (PQ-RDL L1)
 │   ├── DORAHACKS_HACKATHON_APPLICATION.md  # Global Hackathon & Bounty submission
 │   ├── AI_INFRA_AND_QUANTUM_GRANTS.md      # Google Cloud AI ($350k), NVIDIA, BNB Chain grants
@@ -42,7 +43,7 @@ rdl-marketing/
 │   └── FOUNDATION_OUTREACH_EMAILS.md       # High-converting cold email templates
 │
 ├── 🌌 portfolio/                            # Master Fleet Architecture & Catalogs
-│   └── QMOOSA_PORTFOLIO_MASTER_CATALOG.md  # Unified index of all 15 ecosystem repositories
+│   └── QMOOSA_PORTFOLIO_MASTER_CATALOG.md  # Unified index of all 35+ ecosystem repositories
 │
 ├── 🌐 node-recruitment/                     # Global Decentralized Validator Expansion
 │   ├── 1_CLICK_NODE_OPERATOR_GUIDE.md      # 3-command setup guide for node runners
@@ -52,6 +53,7 @@ rdl-marketing/
 │
 ├── 📢 marketing/                           # Viral Growth, PR & Social Playbooks
 │   ├── QMOOSA_MULTICHAIN_SOVEREIGN_FLEET.md# Master 12-Tweet & Hacker News fleet launch kit
+│   ├── QUANTUM_DRUG_DISCOVERY_VIRAL_KIT.md # Viral kit for VQE/QML Malaria & TB Drug Discovery
 │   ├── MASTER_VIRAL_MARKETING_PLAN.md      # Full 5-phase global growth flywheel
 │   ├── SOCIAL_MEDIA_VIRAL_KIT.md           # Hacker News, Reddit & 10-Tweet X thread (PQ-RDL)
 │   ├── QMOOSA_AI_QUANTUM_VIRAL_KIT.md      # Hacker News, Reddit & X thread (InfraGuard AI)
