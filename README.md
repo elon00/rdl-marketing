@@ -1,24 +1,25 @@
 <div align="center">
 
-# 🛡️ PQ-RDL Growth & Marketing Command Center
-### The Complete Growth Engine for the World's First Machine-Verified Post-Quantum L1 Blockchain
+# 🛡️ QMoosa & PQ-RDL Unified Growth & Marketing Hub
+### Institutional Operations Engine for Post-Quantum Blockchain & Frontier AI Infrastructure
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![NIST Standard](https://img.shields.io/badge/NIST-FIPS%20204%20(ML--DSA)-brightgreen.svg)](https://csrc.nist.gov/pubs/fips/204/final)
+[![NIST Standard](https://img.shields.io/badge/NIST-FIPS%20203%20%26%20204-brightgreen.svg)](https://csrc.nist.gov/pubs/fips/204/final)
 [![Consensus](https://img.shields.io/badge/Consensus-HotStuff%20BFT-orange.svg)](https://github.com/elon00/pq-rdl-blockchain)
+[![URS Score](https://img.shields.io/badge/URS%20v2.0-10.0%20%2F%2010.0-38bdf8.svg)](https://github.com/elon00/qmoosa-deep-tech-ai-quantum-platform)
 [![Reality Mode](https://img.shields.io/badge/Truth%20Protocol-Fail--Closed%20R6-purple.svg)](https://github.com/elon00/pq-rdl-blockchain)
-[![GitHub Stars](https://img.shields.io/github/stars/elon00/pq-rdl-blockchain?style=social)](https://github.com/elon00/pq-rdl-blockchain)
 
-[Main Repository](https://github.com/elon00/pq-rdl-blockchain) • [Grant Dossier](grants/GITCOIN_GRANTS_APPLICATION.md) • [Node Operator Manual](node-recruitment/1_CLICK_NODE_OPERATOR_GUIDE.md) • [Viral Kit](marketing/SOCIAL_MEDIA_VIRAL_KIT.md)
+**[PQ-RDL Blockchain (L1)](https://github.com/elon00/pq-rdl-blockchain)** • **[QMoosa Deep Tech AI Quantum](https://github.com/elon00/qmoosa-deep-tech-ai-quantum-platform)** • **[BountyHunter OS](https://github.com/elon00/bountyhunter-os)**
 
 </div>
 
 ---
 
-## 📌 Executive Overview
-This operations center empowers a **solo founder** to run institutional-grade marketing, community recruitment, grant fundraising, and developer adoption for **PQ-RDL Blockchain (Republic of Divine Light)**.
+## 📌 Executive Ecosystem Overview
+This hub centralizes all marketing, grant dossiers, node operator onboarding, viral distribution kits, and media packages for the entire **QMoosa Deep Tech Ecosystem**:
 
-Every document here is production-calibrated, legal-framework compliant, and ready to deploy with **one click / copy-paste**.
+1. **🏛️ PQ-RDL Blockchain:** The world's first machine-verified Layer-1 ledger running native **NIST FIPS 204 (ML-DSA-65)** lattice digital signatures and pipelined **HotStuff BFT** consensus.
+2. **🤖 InfraGuard AI & Quantum Platform:** High-throughput AI infrastructure gateway with sub-10ms semantic caching, multi-model routing across Gemini 2.5 Flash / Groq / Claude, real-time edge guardrails, and **12/12 URS Reality Gates (10.0/10)**.
 
 ---
 
@@ -27,9 +28,10 @@ Every document here is production-calibrated, legal-framework compliant, and rea
 ```
 rdl-marketing/
 │
-├── 🏛️ grants/                               # Institutional Fundraising & Foundation Grants
-│   ├── GITCOIN_GRANTS_APPLICATION.md       # Pre-filled Gitcoin Grants application
+├── 🏛️ grants/                               # Foundation Grants & Non-Dilutive Capital
+│   ├── GITCOIN_GRANTS_APPLICATION.md       # Pre-filled Gitcoin Grants dossier (PQ-RDL)
 │   ├── DORAHACKS_HACKATHON_APPLICATION.md  # Global Hackathon & Bounty submission
+│   ├── AI_INFRA_AND_QUANTUM_GRANTS.md      # Google Cloud AI, NVIDIA, BNB Chain MVB grants
 │   ├── WEB3_FOUNDATION_RESEARCH_GRANT.md   # L1 PQC research grant proposal
 │   └── FOUNDATION_OUTREACH_EMAILS.md       # High-converting cold email templates
 │
@@ -40,10 +42,12 @@ rdl-marketing/
 │   └── OPERATOR_INCENTIVES_AND_ECONOMICS.md# Points, staking rewards & slashing mechanics
 │
 ├── 📢 marketing/                           # Viral Growth, PR & Social Playbooks
-│   ├── MASTER_VIRAL_MARKETING_PLAN.md      # Full 5-phase growth flywheel
-│   ├── SOCIAL_MEDIA_VIRAL_KIT.md           # Hacker News, Reddit & 10-Tweet X thread
-│   ├── INCENTIVIZED_TESTNET_CAMPAIGN.md    # "Quantum Shield" points & leaderboard system
-│   └── PQ_RDL_ONE_PAGER_PAMPHLET.md        # Printable executive summary / pamphlet
+│   ├── MASTER_VIRAL_MARKETING_PLAN.md      # Full 5-phase global growth flywheel
+│   ├── SOCIAL_MEDIA_VIRAL_KIT.md           # Hacker News, Reddit & 10-Tweet X thread (PQ-RDL)
+│   ├── QMOOSA_AI_QUANTUM_VIRAL_KIT.md      # Hacker News, Reddit & X thread (InfraGuard AI)
+│   ├── INCENTIVIZED_TESTNET_CAMPAIGN.md    # "Project Quantum Shield" points & leaderboard
+│   ├── PQ_RDL_ONE_PAGER_PAMPHLET.md        # Printable executive pamphlet (PQ-RDL)
+│   └── QMOOSA_AI_QUANTUM_ONE_PAGER.md      # Printable executive pamphlet (AI Quantum Platform)
 │
 └── 🐞 bug-bounties/                        # Security Research & Whitehat Program
     ├── IMMUNEFI_SUBMISSION_TEMPLATE.md     # Standardized $50k-$1M vulnerability report
@@ -56,16 +60,17 @@ rdl-marketing/
 
 | Goal | Action | Source File |
 | :--- | :--- | :--- |
-| **Apply for $50k+ Grants** | Copy-paste application fields into Gitcoin or DoraHacks | [`grants/GITCOIN_GRANTS_APPLICATION.md`](grants/GITCOIN_GRANTS_APPLICATION.md) |
-| **Recruit 50 Node Operators** | Post the announcement in validator Telegram & Discord chats | [`node-recruitment/DISCORD_TELEGRAM_COMMUNITY_SCRIPTS.md`](node-recruitment/DISCORD_TELEGRAM_COMMUNITY_SCRIPTS.md) |
-| **Go Viral on Twitter & HN** | Post the pre-written Hacker News "Show HN" and 10-tweet thread | [`marketing/SOCIAL_MEDIA_VIRAL_KIT.md`](marketing/SOCIAL_MEDIA_VIRAL_KIT.md) |
-| **Send VC / Partner Pitch** | Attach the One-Pager Pamphlet to the Cold Email Template | [`marketing/PQ_RDL_ONE_PAGER_PAMPHLET.md`](marketing/PQ_RDL_ONE_PAGER_PAMPHLET.md) |
-| **Claim Whitehat Bug Bounties** | Submit cryptographic vulnerability PoCs via Immunefi standard | [`bug-bounties/IMMUNEFI_SUBMISSION_TEMPLATE.md`](bug-bounties/IMMUNEFI_SUBMISSION_TEMPLATE.md) |
+| **Apply for Web3 / PQC Grants** | Copy-paste application fields into Gitcoin or DoraHacks | [`grants/GITCOIN_GRANTS_APPLICATION.md`](grants/GITCOIN_GRANTS_APPLICATION.md) |
+| **Apply for AI / Cloud Grants** | Submit Google Cloud AI or BNB Chain MVB applications | [`grants/AI_INFRA_AND_QUANTUM_GRANTS.md`](grants/AI_INFRA_AND_QUANTUM_GRANTS.md) |
+| **Recruit 50 Node Operators** | Post announcement in validator Telegram & Discord chats | [`node-recruitment/DISCORD_TELEGRAM_COMMUNITY_SCRIPTS.md`](node-recruitment/DISCORD_TELEGRAM_COMMUNITY_SCRIPTS.md) |
+| **Launch InfraGuard AI on HN & X** | Post pre-written Hacker News "Show HN" and Twitter thread | [`marketing/QMOOSA_AI_QUANTUM_VIRAL_KIT.md`](marketing/QMOOSA_AI_QUANTUM_VIRAL_KIT.md) |
+| **Launch PQ-RDL on HN & Reddit** | Post pre-written Hacker News & Reddit threads | [`marketing/SOCIAL_MEDIA_VIRAL_KIT.md`](marketing/SOCIAL_MEDIA_VIRAL_KIT.md) |
+| **Send Investor / Partner Pitch** | Attach One-Pager Pamphlets to the Cold Email Template | [`marketing/PQ_RDL_ONE_PAGER_PAMPHLET.md`](marketing/PQ_RDL_ONE_PAGER_PAMPHLET.md) |
 
 ---
 
-## ⚖️ Truth Protocol & Legal Guardrails
+## ⚖️ Truth Protocol & Legal Standards
 In strict accordance with `.rules/blockchain_legal_framework.md` and the **QMoosa Truth Protocol**:
-- 🚫 **No Fictitious Metrics:** Never report simulated metrics as completed ground truth.
-- 📜 **Full Regulatory Adherence:** Complies with Supreme Court of India directives (*IAMAI v. RBI*), CERT-In timestamped audit rules, and EU MiCA transparency standards.
-- 🔬 **Verified Evidence:** All technical claims link directly to reproducible machine evidence generated under Gate R6 in the primary repository.
+- 🚫 **Zero Fictitious Metrics:** 100% genuine evidence; no fake mocks, simulation claims, or fabricated metrics.
+- 📜 **Full Regulatory Adherence:** Complies with Supreme Court of India directives (*IAMAI v. RBI*), CERT-In 2022 timestamped audit rules, and EU MiCA transparency standards.
+- 🔬 **Dual Verifiable Truth:** Links to reproducible Gate R6 machine evidence in `pq-rdl-blockchain` and 12-Gate URS scorecard in `qmoosa-deep-tech-ai-quantum-platform`.
