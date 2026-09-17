@@ -10,7 +10,9 @@
 [![ERC-4337 Account Abstraction](https://img.shields.io/badge/ERC--4337-Policy%20Guardian-indigo.svg)](https://github.com/elon00/qmoosa-nexus-platform)
 [![Reality Mode](https://img.shields.io/badge/Truth%20Protocol-Fail--Closed%20R6-purple.svg)](https://github.com/elon00/pq-rdl-blockchain)
 
-**[PQ-RDL Blockchain (L1)](https://github.com/elon00/pq-rdl-blockchain)** • **[QMoosa Deep Tech AI Quantum](https://github.com/elon00/qmoosa-deep-tech-ai-quantum-platform)** • **[QMoosa Nexus AI Agents](https://github.com/elon00/qmoosa-nexus-platform)** • **[BountyHunter OS](https://github.com/elon00/bountyhunter-os)**
+**[PQ-RDL Blockchain (L1)](https://github.com/elon00/pq-rdl-blockchain)** • **[QMoosa AI Quantum](https://github.com/elon00/qmoosa-deep-tech-ai-quantum-platform)** • **[QMoosa Nexus](https://github.com/elon00/qmoosa-nexus-platform)** • **[BountyHunter OS](https://github.com/elon00/bountyhunter-os)** • **[Master Portfolio Catalog](portfolio/QMOOSA_PORTFOLIO_MASTER_CATALOG.md)**
+<br/>
+<sub>**Multi-Chain Deployed Fleet:** [QARBI (Arbitrum)](https://github.com/elon00/QARBI) • [Shor x402 (Algorand)](https://github.com/elon00/shor-x402) • [OmniCall (Voice AI)](https://github.com/elon00/omnicall-quantum-sentinel) • [QSui (Sui)](https://github.com/elon00/QSui) • [JarSol (Solana)](https://github.com/elon00/jarsol-web4-automaton) • [Algo_Qain](https://github.com/elon00/Algo_Qain) • [QTON](https://github.com/elon00/qton) • [BNB-QUSD](https://github.com/elon00/bnb-qusd)</sub>
 
 </div>
 
@@ -31,12 +33,16 @@ This hub centralizes all marketing, foundation grant dossiers, validator recruit
 rdl-marketing/
 │
 ├── 🏛️ grants/                               # Foundation Grants & Non-Dilutive Capital
+│   ├── MULTI_CHAIN_ECOSYSTEM_GRANTS_MAP.md # Master Arbitrum, Algorand, Solana, Sui, TON grants
 │   ├── GITCOIN_GRANTS_APPLICATION.md       # Pre-filled Gitcoin Grants dossier (PQ-RDL L1)
 │   ├── DORAHACKS_HACKATHON_APPLICATION.md  # Global Hackathon & Bounty submission
 │   ├── AI_INFRA_AND_QUANTUM_GRANTS.md      # Google Cloud AI ($350k), NVIDIA, BNB Chain grants
 │   ├── QMOOSA_NEXUS_AI_AGENTS_GRANTS.md    # Base Ecosystem Fund, Arbitrum & Solana AI grants
 │   ├── WEB3_FOUNDATION_RESEARCH_GRANT.md   # L1 PQC research grant proposal
 │   └── FOUNDATION_OUTREACH_EMAILS.md       # High-converting cold email templates
+│
+├── 🌌 portfolio/                            # Master Fleet Architecture & Catalogs
+│   └── QMOOSA_PORTFOLIO_MASTER_CATALOG.md  # Unified index of all 15 ecosystem repositories
 │
 ├── 🌐 node-recruitment/                     # Global Decentralized Validator Expansion
 │   ├── 1_CLICK_NODE_OPERATOR_GUIDE.md      # 3-command setup guide for node runners
@@ -45,6 +51,7 @@ rdl-marketing/
 │   └── OPERATOR_INCENTIVES_AND_ECONOMICS.md# Points, staking rewards & slashing mechanics
 │
 ├── 📢 marketing/                           # Viral Growth, PR & Social Playbooks
+│   ├── QMOOSA_MULTICHAIN_SOVEREIGN_FLEET.md# Master 12-Tweet & Hacker News fleet launch kit
 │   ├── MASTER_VIRAL_MARKETING_PLAN.md      # Full 5-phase global growth flywheel
 │   ├── SOCIAL_MEDIA_VIRAL_KIT.md           # Hacker News, Reddit & 10-Tweet X thread (PQ-RDL)
 │   ├── QMOOSA_AI_QUANTUM_VIRAL_KIT.md      # Hacker News, Reddit & X thread (InfraGuard AI)
@@ -65,6 +72,9 @@ rdl-marketing/
 
 | Goal | Action | Source File |
 | :--- | :--- | :--- |
+| **Apply for Multi-Chain Grants** | Submit to Arbitrum, Algorand, Solana, Sui, TON, BNB | [`grants/MULTI_CHAIN_ECOSYSTEM_GRANTS_MAP.md`](grants/MULTI_CHAIN_ECOSYSTEM_GRANTS_MAP.md) |
+| **Launch Entire Fleet on X & HN** | Post 12-Tweet mega thread & Show HN deep dive | [`marketing/QMOOSA_MULTICHAIN_SOVEREIGN_FLEET.md`](marketing/QMOOSA_MULTICHAIN_SOVEREIGN_FLEET.md) |
+| **Explore Full 15-Repo Fleet** | View architecture, tech stacks, and repo links | [`portfolio/QMOOSA_PORTFOLIO_MASTER_CATALOG.md`](portfolio/QMOOSA_PORTFOLIO_MASTER_CATALOG.md) |
 | **Apply for Base / Arbitrum AI Grants** | Submit Base Ecosystem Fund or Arbitrum DAO applications | [`grants/QMOOSA_NEXUS_AI_AGENTS_GRANTS.md`](grants/QMOOSA_NEXUS_AI_AGENTS_GRANTS.md) |
 | **Apply for Google AI & BNB Grants** | Submit Google Cloud AI or BNB Chain MVB applications | [`grants/AI_INFRA_AND_QUANTUM_GRANTS.md`](grants/AI_INFRA_AND_QUANTUM_GRANTS.md) |
 | **Apply for Web3 / PQC Grants** | Copy-paste application fields into Gitcoin or DoraHacks | [`grants/GITCOIN_GRANTS_APPLICATION.md`](grants/GITCOIN_GRANTS_APPLICATION.md) |
