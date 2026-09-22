@@ -1,100 +1,108 @@
-<div align="center">
+# QMoosa Ecosystem Growth & Market Operations
 
-# 🛡️ QMoosa Ecosystem Unified Growth & Marketing Hub
-### Institutional Operations Engine for Post-Quantum Blockchain, Frontier AI Infrastructure, & Autonomous Web 4.0 Agent Execution
+This repository contains market-facing material for **original QMoosa / RDL projects**: grants, partnership outreach, node-operator recruitment, launch messaging, one-pagers, campaign planning, and security-program templates.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![NIST Standard](https://img.shields.io/badge/NIST-FIPS%20203%20%26%20204-brightgreen.svg)](https://csrc.nist.gov/pubs/fips/204/final)
-[![Consensus](https://img.shields.io/badge/Consensus-HotStuff%20BFT-orange.svg)](https://github.com/elon00/pq-rdl-blockchain)
-[![URS Score](https://img.shields.io/badge/URS%20v2.0-10.0%20%2F%2010.0-38bdf8.svg)](https://github.com/elon00/qmoosa-deep-tech-ai-quantum-platform)
-[![ERC-4337 Account Abstraction](https://img.shields.io/badge/ERC--4337-Policy%20Guardian-indigo.svg)](https://github.com/elon00/qmoosa-nexus-platform)
-[![Reality Mode](https://img.shields.io/badge/Truth%20Protocol-Fail--Closed%20R6-purple.svg)](https://github.com/elon00/pq-rdl-blockchain)
+## Evidence-first marketing rule
 
-**[PQ-RDL Blockchain (L1)](https://github.com/elon00/pq-rdl-blockchain)** • **[QMoosa AI Quantum](https://github.com/elon00/qmoosa-deep-tech-ai-quantum-platform)** • **[QMoosa Nexus](https://github.com/elon00/qmoosa-nexus-platform)** • **[BountyHunter OS](https://github.com/elon00/bountyhunter-os)** • **[Master Portfolio Catalog](portfolio/QMOOSA_PORTFOLIO_MASTER_CATALOG.md)**
-<br/>
-<sub>**Multi-Chain Deployed Fleet:** [QARBI (Arbitrum)](https://github.com/elon00/QARBI) • [Shor x402 (Algorand)](https://github.com/elon00/shor-x402) • [OmniCall (Voice AI)](https://github.com/elon00/omnicall-quantum-sentinel) • [QSui (Sui)](https://github.com/elon00/QSui) • [JarSol (Solana)](https://github.com/elon00/jarsol-web4-automaton) • [Algo_Qain](https://github.com/elon00/Algo_Qain) • [QTON](https://github.com/elon00/qton) • [BNB-QUSD](https://github.com/elon00/bnb-qusd)</sub>
+Marketing claims must be narrower than the evidence in the canonical technical repository.
 
-</div>
+| Project | Canonical technical source | Public positioning |
+|---|---|---|
+| [PQ-RDL Blockchain](https://github.com/elon00/pq-rdl-blockchain) | `pq-rdl-blockchain` | CI-verified operational devnet/prototype; public mainnet and independently operated public testnet are not claimed |
+| [QMoosa Deep Tech AI & Quantum](https://github.com/elon00/qmoosa-deep-tech-ai-quantum-platform) | project README + CI/reality artifacts | Experimental/research/hackathon platform; internal scorecards are not independent certification |
+| [QMoosa Nexus](https://github.com/elon00/qmoosa-nexus-platform) | project README + contract/deployment evidence | Multi-chain/account-abstraction research prototype; deployment claims require reproducible explorer evidence |
+| [QTON](https://github.com/elon00/qton) | testnet evidence in repository | TON testnet project; not represented as mainnet-live, independently audited, or market-proven |
+| [QSui](https://github.com/elon00/QSui) | Move package + project verification | Sui research/testnet-oriented prototype; tokenomics and deployment plans are not market adoption evidence |
 
----
+Do not describe repository-defined gates, badges, scorecards, simulations, generated receipts, local benchmarks, or CI as third-party certification.
 
-## 📌 Executive Ecosystem Overview
-This hub centralizes all marketing, foundation grant dossiers, validator recruitment, viral social media playbooks, and media packages across the **3 Core Pillars of QMoosa**:
+## Repository purpose
 
-1. **🏛️ PQ-RDL Blockchain:** The world's first machine-verified Layer-1 ledger running native **NIST FIPS 204 (ML-DSA-65)** lattice digital signatures and pipelined **HotStuff BFT** consensus under Gate R6.
-2. **🤖 InfraGuard AI & Quantum Platform:** High-throughput AI infrastructure gateway with sub-10ms semantic caching, multi-model routing across Gemini 2.5 Flash / Groq / Claude, real-time edge guardrails, and **12/12 URS Reality Gates (10.0/10)**.
-3. **🌌 QMoosa Nexus Protocol:** Autonomous Web 4.0 execution framework featuring **ERC-4337 Account Abstraction**, on-chain **Policy Guardians** (daily spend limits, scoped session keys), and **Conway Cellular Automata** swarm coordination across Ethereum, Base, and Solana.
-
----
-
-## 🗺️ Master Operations Directory
-
-```
+```text
 rdl-marketing/
-│
-├── 🏛️ grants/                               # Foundation Grants & Non-Dilutive Capital
-│   ├── ACADEMIC_AND_INSTITUTIONAL_GRANTS_MAP.md # IITs, IIITs, NQM, MIT, Stanford, Berkeley, Harvard
-│   ├── MULTI_CHAIN_ECOSYSTEM_GRANTS_MAP.md # Master Arbitrum, Algorand, Solana, Sui, TON grants
-│   ├── QUANTUM_BIOTECH_AND_HEALTHCARE_GRANTS.md # Gates Foundation, Wellcome Leap, ARPA-H, NIH
-│   ├── GITCOIN_GRANTS_APPLICATION.md       # Pre-filled Gitcoin Grants dossier (PQ-RDL L1)
-│   ├── DORAHACKS_HACKATHON_APPLICATION.md  # Global Hackathon & Bounty submission
-│   ├── AI_INFRA_AND_QUANTUM_GRANTS.md      # Google Cloud AI ($350k), NVIDIA, BNB Chain grants
-│   ├── QMOOSA_NEXUS_AI_AGENTS_GRANTS.md    # Base Ecosystem Fund, Arbitrum & Solana AI grants
-│   ├── WEB3_FOUNDATION_RESEARCH_GRANT.md   # L1 PQC research grant proposal
-│   └── FOUNDATION_OUTREACH_EMAILS.md       # High-converting cold email templates
-│
-├── 🌌 portfolio/                            # Master Fleet Architecture & Catalogs
-│   └── QMOOSA_PORTFOLIO_MASTER_CATALOG.md  # Unified index of all 35+ ecosystem repositories
-│
-├── 🌐 node-recruitment/                     # Global Decentralized Validator Expansion
-│   ├── 1_CLICK_NODE_OPERATOR_GUIDE.md      # 3-command setup guide for node runners
-│   ├── DISCORD_TELEGRAM_COMMUNITY_SCRIPTS.md # High-conversion community pitches
-│   ├── NODE_OPERATOR_INVITATION.md         # Formal invitation letter for staking pools
-│   └── OPERATOR_INCENTIVES_AND_ECONOMICS.md# Points, staking rewards & slashing mechanics
-│
-├── 📢 marketing/                           # Viral Growth, PR & Social Playbooks
-│   ├── ACADEMIC_COLLABORATION_PITCH_DECK.md# University Deans & Incubation Pitch Deck (IITs/MIT)
-│   ├── QMOOSA_MULTICHAIN_SOVEREIGN_FLEET.md# Master 12-Tweet & Hacker News fleet launch kit
-│   ├── QUANTUM_DRUG_DISCOVERY_VIRAL_KIT.md # Viral kit for VQE/QML Malaria & TB Drug Discovery
-│   ├── MASTER_VIRAL_MARKETING_PLAN.md      # Full 5-phase global growth flywheel
-│   ├── SOCIAL_MEDIA_VIRAL_KIT.md           # Hacker News, Reddit & 10-Tweet X thread (PQ-RDL)
-│   ├── QMOOSA_AI_QUANTUM_VIRAL_KIT.md      # Hacker News, Reddit & X thread (InfraGuard AI)
-│   ├── QMOOSA_NEXUS_VIRAL_KIT.md           # Hacker News, Reddit & X thread (Nexus AI Agents)
-│   ├── INCENTIVIZED_TESTNET_CAMPAIGN.md    # "Project Quantum Shield" points & leaderboard
-│   ├── PQ_RDL_ONE_PAGER_PAMPHLET.md        # Printable executive pamphlet (PQ-RDL L1)
-│   ├── QMOOSA_AI_QUANTUM_ONE_PAGER.md      # Printable executive pamphlet (AI Quantum Platform)
-│   └── QMOOSA_NEXUS_ONE_PAGER.md           # Printable executive pamphlet (Nexus Protocol)
-│
-└── 🐞 bug-bounties/                        # Security Research & Whitehat Program
-    ├── IMMUNEFI_SUBMISSION_TEMPLATE.md     # Standardized $50k-$1M vulnerability report
-    └── BUG_BOUNTY_HUNTER_PROGRAM_DESIGN.md # Bug bounty policy & safe harbor rules
+├── grants/            grant research and application drafts
+├── marketing/         launch copy, one-pagers and campaign material
+├── node-recruitment/  permission-based operator recruitment material
+├── portfolio/         ecosystem catalog and project mapping
+└── bug-bounties/      disclosure and security-program templates
 ```
 
----
+## Allowed market claims
 
-## ⚡ Solo Founder's 3-Minute Action Playbook
+A claim is suitable for publication when the referenced evidence exists and supports the exact wording. Examples:
 
-| Goal | Action | Source File |
-| :--- | :--- | :--- |
-| **Apply for IIT/IIIT/MIT/Stanford Grants** | Submit proposals to NQM, MIT DCI, Stanford CBR, IIT incubation | [`grants/ACADEMIC_AND_INSTITUTIONAL_GRANTS_MAP.md`](grants/ACADEMIC_AND_INSTITUTIONAL_GRANTS_MAP.md) |
-| **Pitch to University Deans & VCs** | Deliver 7-slide academic briefing & incubation deck | [`marketing/ACADEMIC_COLLABORATION_PITCH_DECK.md`](marketing/ACADEMIC_COLLABORATION_PITCH_DECK.md) |
-| **Apply for Multi-Chain Grants** | Submit to Arbitrum, Algorand, Solana, Sui, TON, BNB | [`grants/MULTI_CHAIN_ECOSYSTEM_GRANTS_MAP.md`](grants/MULTI_CHAIN_ECOSYSTEM_GRANTS_MAP.md) |
-| **Apply for Gates & NIH Biotech Grants**| Submit VQE Malaria/TB proposals to Gates Foundation & NIH | [`grants/QUANTUM_BIOTECH_AND_HEALTHCARE_GRANTS.md`](grants/QUANTUM_BIOTECH_AND_HEALTHCARE_GRANTS.md) |
-| **Launch Entire Fleet on X & HN** | Post 12-Tweet mega thread & Show HN deep dive | [`marketing/QMOOSA_MULTICHAIN_SOVEREIGN_FLEET.md`](marketing/QMOOSA_MULTICHAIN_SOVEREIGN_FLEET.md) |
-| **Explore Full 35+ Repo Fleet** | View architecture, tech stacks, and repo links | [`portfolio/QMOOSA_PORTFOLIO_MASTER_CATALOG.md`](portfolio/QMOOSA_PORTFOLIO_MASTER_CATALOG.md) |
-| **Apply for Base / Arbitrum AI Grants** | Submit Base Ecosystem Fund or Arbitrum DAO applications | [`grants/QMOOSA_NEXUS_AI_AGENTS_GRANTS.md`](grants/QMOOSA_NEXUS_AI_AGENTS_GRANTS.md) |
-| **Apply for Google AI & BNB Grants** | Submit Google Cloud AI or BNB Chain MVB applications | [`grants/AI_INFRA_AND_QUANTUM_GRANTS.md`](grants/AI_INFRA_AND_QUANTUM_GRANTS.md) |
-| **Apply for Web3 / PQC Grants** | Copy-paste application fields into Gitcoin or DoraHacks | [`grants/GITCOIN_GRANTS_APPLICATION.md`](grants/GITCOIN_GRANTS_APPLICATION.md) |
-| **Launch Nexus AI on Hacker News & X** | Post pre-written Hacker News "Show HN" and Twitter thread | [`marketing/QMOOSA_NEXUS_VIRAL_KIT.md`](marketing/QMOOSA_NEXUS_VIRAL_KIT.md) |
-| **Launch InfraGuard AI on Reddit & HN** | Post pre-written Hacker News & Reddit threads | [`marketing/QMOOSA_AI_QUANTUM_VIRAL_KIT.md`](marketing/QMOOSA_AI_QUANTUM_VIRAL_KIT.md) |
-| **Launch PQ-RDL on Reddit & X** | Post pre-written Hacker News & 10-tweet thread | [`marketing/SOCIAL_MEDIA_VIRAL_KIT.md`](marketing/SOCIAL_MEDIA_VIRAL_KIT.md) |
-| **Recruit 50 Node Operators** | Post announcement in validator Telegram & Discord chats | [`node-recruitment/DISCORD_TELEGRAM_COMMUNITY_SCRIPTS.md`](node-recruitment/DISCORD_TELEGRAM_COMMUNITY_SCRIPTS.md) |
-| **Send Investor / Partner Pitch** | Attach One-Pager Pamphlets to the Cold Email Template | [`marketing/QMOOSA_NEXUS_ONE_PAGER.md`](marketing/QMOOSA_NEXUS_ONE_PAGER.md) |
+- “ML-DSA-65 integration tests pass in repository CI.”
+- “QTON records TON testnet deployment evidence.”
+- “PQ-RDL has a CI-verified operational devnet prototype.”
+- “The project is recruiting technically capable operators to evaluate a devnet.”
+- “The repository includes experimental HotStuff-style consensus and PQC integration work.”
 
----
+## Claims requiring additional evidence
 
-## ⚖️ Truth Protocol & Legal Standards
-In strict accordance with `.rules/blockchain_legal_framework.md` and the **QMoosa Truth Protocol**:
-- 🚫 **Zero Fictitious Metrics:** 100% genuine evidence; no fake mocks, simulation claims, or fabricated metrics.
-- 📜 **Full Regulatory Adherence:** Complies with Supreme Court of India directives (*IAMAI v. RBI*), CERT-In 2022 timestamped audit rules, and EU MiCA transparency standards.
-- 🔬 **Triple Machine-Verifiable Ground Truth:** Links to reproducible Gate R6 machine evidence in `pq-rdl-blockchain`, 12-Gate URS scorecard in `qmoosa-deep-tech-ai-quantum-platform`, and verified on-chain contracts in `qmoosa-nexus-platform`.
+Do **not** publish these without independent, reproducible support:
+
+- “world's first”, “best”, “leading”, “institutional-grade”, or similar superlatives
+- “production-ready”, “mainnet-live”, “fully decentralized”, or “enterprise-ready”
+- guaranteed yield, staking rewards, token price, liquidity, exchange listing, or investment return
+- specific latency/TPS/throughput claims that were not measured under a documented workload
+- user, revenue, TVL, volume, validator-count, partnership, grant-award, or adoption metrics without source evidence
+- “audited”, “certified”, “FIPS validated”, “MiCA compliant”, “SEC compliant”, or “legally approved” without the relevant independent authority
+- “quantum-safe” for an entire system merely because a PQC primitive is present
+
+See [MARKETING_CLAIM_POLICY.md](MARKETING_CLAIM_POLICY.md).
+
+## Node-operator recruitment
+
+Use only consent-aware, targeted outreach. The canonical operator automation lives in `pq-rdl-blockchain` and is designed to:
+
+- require consent before outreach
+- honor opt-outs and do-not-contact state
+- throttle repeated contact
+- distinguish dry-run from delivered outreach
+- avoid guaranteed operator rewards
+- describe network status truthfully
+
+Do not scrape contacts or mass-message unrelated developers, communities, or phone numbers.
+
+## Grants and partnerships
+
+Grant documents are working drafts. Before submission:
+
+1. verify the program is still active and eligibility rules are current;
+2. verify every technical and deployment statement against the canonical repository;
+3. remove unverified performance/adoption metrics;
+4. label requested funding as an application/request, not an award;
+5. have legal, tax, token, and securities statements reviewed where material.
+
+## Campaign release checklist
+
+Before publishing a campaign asset:
+
+1. identify the canonical implementation repository;
+2. link the evidence supporting each material claim;
+3. distinguish simulation, local devnet, public testnet, mainnet and production;
+4. confirm security/audit language is accurate;
+5. confirm incentives are actually funded and governed before advertising them;
+6. confirm contact lists have a legitimate outreach basis and opt-out path;
+7. archive the final approved copy with a review date.
+
+## Security
+
+Do not commit:
+
+- API keys, seed phrases, wallets or private keys
+- operator/customer PII
+- private partner correspondence
+- unpublished credentials or access tokens
+
+See [SECURITY.md](SECURITY.md).
+
+## Portfolio boundary
+
+This marketing repository is for the user's original QMoosa/RDL projects. It is **not** a marketing umbrella for unrelated forks, mirrors, tutorials, upstream repositories, or reference collections present elsewhere on the GitHub account.
+
+## Current status
+
+**MARKETING OPERATIONS REPOSITORY — NOT A TECHNICAL PRODUCTION CERTIFICATION**
+
+Use the canonical engineering repositories to determine implementation and deployment status.
