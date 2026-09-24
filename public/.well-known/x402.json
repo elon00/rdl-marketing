@@ -1,0 +1,48 @@
+{
+  "x402Version": "1.0.0",
+  "version": "1.0.0",
+  "name": "QMoosa Ecosystem Growth & Marketing Hub — Institutional Operations",
+  "type": "ecosystem-growth-hub",
+  "category": "ai-agent-commerce",
+  "tags": [
+    "solana",
+    "grants",
+    "institutional-marketing",
+    "validator-recruitment",
+    "growth-hub",
+    "x402"
+  ],
+  "provider": {
+    "name": "QMoosa Growth Hub / Martin",
+    "website": "https://github.com/elon00/rdl-marketing",
+    "payTo": "8qhW8ctXX77UNLTY9kx3XoAoH8kstQXPbCghUwqu34es",
+    "network": "solana-testnet",
+    "caip2": "solana:4uhcVJyU9pJkvQyS88uRDiswHXSCkY3z"
+  },
+  "endpoints": [
+    {
+      "path": "/api/v1/x402/grants/dossier",
+      "method": "POST",
+      "description": "Access institutional foundation grant application dossiers and automated compliance verification",
+      "pricing": {
+        "amountSol": 0.001,
+        "lamports": 1000000,
+        "currency": "SOL",
+        "alternativeUsdc": "0.01"
+      },
+      "challengeHeader": "WWW-Authenticate: x402 realm=\"rdl-growth\", payTo=\"8qhW8ctXX77UNLTY9kx3XoAoH8kstQXPbCghUwqu34es\", amount=\"0.001\", currency=\"SOL\", network=\"solana:4uhcVJyU9pJkvQyS88uRDiswHXSCkY3z\""
+    },
+    {
+      "path": "/api/v1/x402/marketing/kit",
+      "method": "POST",
+      "description": "Retrieve comprehensive multi-chain PR launch kit, pitch decks, and viral dissemination playbooks",
+      "pricing": {
+        "amountSol": 0.001,
+        "lamports": 1000000,
+        "currency": "SOL",
+        "alternativeUsdc": "0.01"
+      },
+      "challengeHeader": "WWW-Authenticate: x402 realm=\"rdl-growth\", payTo=\"8qhW8ctXX77UNLTY9kx3XoAoH8kstQXPbCghUwqu34es\", amount=\"0.001\", currency=\"SOL\", network=\"solana:4uhcVJyU9pJkvQyS88uRDiswHXSCkY3z\""
+    }
+  ]
+}
